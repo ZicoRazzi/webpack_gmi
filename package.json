@@ -1,0 +1,16 @@
+{
+  "name": "webpack_gmi",
+  "version": "1.0.0",
+  "description": "Webpack studie",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Zico Rasimogli",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^5.58.1",
+    "webpack-cli": "^4.9.0"
+  }
+}
